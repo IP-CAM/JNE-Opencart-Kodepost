@@ -20,6 +20,6 @@ Cara Install:
 Selamat mencoba
 
 **Bestariweb Studio**
-Web Design Division : http://www.bestariweb.com
-Domain - Webhosting Division : https://www.bestariwebhsot.com
-Tutorial Desain web : http://www.humayraa.com
+- Web Design Division : http://www.bestariweb.com
+- Domain - Webhosting Division : https://www.bestariwebhsot.com
+- Tutorial Desain web : http://www.humayraa.com

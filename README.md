@@ -1,5 +1,4 @@
 JNE-OpenCart-Kodepost
-=====================.
 
 JNE Shipping Module in OpenCart Based on Post Code
 

@@ -1,3 +1,31 @@
+JNE-OpenCart-Kodepost
+=====================.
+
+JNE Shipping Module in OpenCart Based on Post Code
+
+How to install:
+-------------
+1. Upload all files in the ** module ** folder to your OpenCart folder
+2. Enter your Admin Dashboard page
+3. Create geo zone with regular JNE tariff names, and JNE tariffs are OK with the scope of all regions of Indonesia
+4. Enter the extension menu, shipping
+5. Click Install in line ** JNE Based Shipping **
+6. Then after that the Edit menu appears next to the Install menu in the line ** JNE based Shipping **
+7. Click Edit
+8. Click Regular JNE rates. Copy paste the rate data to the column provided.
+9. Enable status
+10. Click Save.
+11. Do the same for JNE rates OK
+
+good luck
+
+** BestariWeb Studio **
+- Web Design Division: http://www.bestariweb.com
+- Domain - Webhosting Division: https://www.bestariwebhsot.com
+- Web design tutorial: http://www.humayraa.com
+
+----------
+
 JNE-Opencart-Kodepost
 =====================
 
